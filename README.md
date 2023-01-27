@@ -12,6 +12,5 @@
 * 🗂️I'm interested cybersecurity
 * 📦Coding on: python, shell
 * 🎟️I'm interested hacking
-* 
-![image](https://user-images.githubusercontent.com/120040231/215177167-91ec328d-9954-4daa-bf25-36e45bba5737.png)
+### My Coding Experience
 ![image](https://user-images.githubusercontent.com/120040231/215178675-4a30f3e0-1a6e-4e87-a7f8-9278cf22f4b6.png)
