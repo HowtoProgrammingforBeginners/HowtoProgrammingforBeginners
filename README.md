@@ -11,5 +11,5 @@
 * ❤️ I love: Programming
 * ⚡ Fun fact: I love Cats
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-_--------------------------------------------------------------------------------------------------------------------------_
+**Test**
+
