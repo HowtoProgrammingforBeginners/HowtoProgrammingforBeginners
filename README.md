@@ -13,4 +13,4 @@
 * 📦Coding on: python, shell
 * 🎟️I'm interested hacking
 
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg
