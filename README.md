@@ -13,6 +13,4 @@
 * 📦Coding on: python, shell
 * 🎟️I'm interested hacking
 
-**Im interested in**
-
-https://camo.githubusercontent.com/068c9dd511a5ec6caf84d0386f3ed2a8c047fe17ad9878487d17cc7575748966/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f62697477617264656e2e737667
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
