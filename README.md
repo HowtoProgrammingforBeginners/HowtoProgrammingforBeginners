@@ -17,7 +17,7 @@
 
 ### Infinity Proxy
 
-socks4 - offline
-socks5 - offline
+**socks4 - offline
+**socks5 - offline
 
-vpn ping: 100-150ms
+**vpn ping: 100-150ms
