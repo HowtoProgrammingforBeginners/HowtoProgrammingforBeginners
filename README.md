@@ -14,7 +14,7 @@
 * 🎟️I'm interested hacking
 
 ### Find me on
-![image](https://user-images.githubusercontent.com/120040231/215182232-ae14dcd3-7f21-4429-913d-73dd9aafa28c.png)
+![Unbenannt](https://user-images.githubusercontent.com/120040231/215183947-25dd38e8-5ad2-481a-b416-d36021243dab.png)
 ## Username: SkillMaggie
 
 
